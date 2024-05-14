@@ -1,5 +1,5 @@
 homepage: "https://www.dotter.me"
 documentation: "https://github.com/dotterme/Dotter-Consent-Manager-Tag"
 versions:
-  - sha: f2e4004ba6b4116004304c76cb136b850f5f1694
+  - sha: 700cd52818fe75b55779b4a5f5be936e00bdca52
     changeNotes: Initial release.
